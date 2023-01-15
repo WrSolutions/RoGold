@@ -3,8 +3,8 @@
 # RoGold 1.4.0
 
 <img src="https://user-images.githubusercontent.com/101052974/212564068-37cdbf5f-f845-4426-868b-62cabea9b508.png" alt="logo" width="25%" />
-  
-## [pic]()
+
+## [pic](https://user-images.githubusercontent.com/101052974/212564911-d89c5e66-6f9a-4e68-8497-fc7b11d683f3.png)
 
 <br> <br>
 
