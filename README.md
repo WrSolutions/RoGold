@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/101052974/212564068-37cdbf5f-f845-4426-868b-62cabea9b508.png" alt="logo" width="25%" />
   
-## [pic](https://user-images.githubusercontent.com/101052974/212564750-f4c1d09b-e22a-4771-9890-ee7389a1c0f9)
+## [pic]()
 
 <br> <br>
 
