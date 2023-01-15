@@ -4,8 +4,6 @@
 
 <img src="https://user-images.githubusercontent.com/101052974/212564068-37cdbf5f-f845-4426-868b-62cabea9b508.png" alt="logo" width="25%" />
 
-## [pic](![image](https://user-images.githubusercontent.com/101052974/212565604-cde24ed4-05f4-4be0-bf11-5b5a96604cf2.png))
-
 <br> <br>
 
 </div>
