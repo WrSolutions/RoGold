@@ -9,8 +9,7 @@
 </div>
 
 ## [ Info ]
-+ They sell their shitty gamepasses to unlock shit features that costs ingame currency
-([Pic](https://user-images.githubusercontent.com/101052974/213862788-69c2893e-1be1-42b7-81d7-88f1733e2b0a.png))
++ They sell their shitty gamepasses ([Pic](https://user-images.githubusercontent.com/101052974/213862788-69c2893e-1be1-42b7-81d7-88f1733e2b0a.png)) to unlock shit features that costs ingame currency
 
 ## [ How to ]
 
